@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="chooseStreet">
+
+        <item>Cristiano Machado - Centro</item>
+        <item>Cristiano Machado - Bairro</item>
+        <item>Antônio Carlos - Centro</item>
+        <item>Antônio Carlos - Bairro</item>
+        <item>Via Expressa - Centro</item>
+        <item>Via Expressa - Bairro</item>
+        <item>Amazonas - Centro</item>
+        <item>Amazonas - Bairro</item>
+        <item>Pedro II - Centro</item>
+        <item>Pedro II - Bairro</item>
+        <item>Catalão - Centro</item>
+        <item>Catalão - Bairro</item>
+        <item>Barão Homem de Melo</item>
+        <item>Brasil</item>
+        <item>Extras</item>
+
+    </string-array>
+
+    <string-array name="chooseStreetValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+
+    </string-array>
+
+</resources>

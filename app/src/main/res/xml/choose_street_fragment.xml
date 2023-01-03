@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="choose_street_fragment">
+
+    <ListPreference
+        android:key="choose_street"
+        android:title="Corredor - Sentido"
+        android:summary="Escolha onde vai abastecer."
+        android:entries="@array/chooseStreet"
+        android:entryValues="@array/chooseStreetValues"
+        android:defaultValue="1"/>
+
+</PreferenceScreen>
